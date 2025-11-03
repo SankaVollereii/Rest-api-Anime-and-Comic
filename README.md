@@ -1,497 +1,403 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=ApiSanka&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=A%20RESTFul%20Anime%20and%20Comic%20Api&descAlignY=55&descSize=15"/>
-</div>
+# 🚀 ApiSanka
 
-<p align="center">
-  <a href="https://www.sankavollerei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Restfull+Anime+%26+Comic+Api" alt="Typing SVG" />
-  </a>
-</p>
+> RESTful Anime & Comic API - Powering Your Applications
 
-<p align="center">
-  <a href="https://www.sankavollerei.com"><img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/100%25-FREE-00D9FF?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Open-Source-4ECDC4?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge" /></a>
-</p>
+[![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)](https://www.sankavollerei.com)
+[![100% FREE](https://img.shields.io/badge/100%25-FREE-00D9FF?style=flat-square)](https://www.sankavollerei.com)
+[![Open Source](https://img.shields.io/badge/Open-Source-4ECDC4?style=flat-square)](https://www.sankavollerei.com)
+[![Uptime 99.9%](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=flat-square)](https://www.sankavollerei.com)
 
 ---
 
-<h2 align="center">
-  🌟 The Most Comprehensive Anime & Comic API Platform
-</h2>
+## 📊 Quick Stats
 
-<p align="center">
-  <strong>Powering thousands of applications worldwide with real-time anime and comic data</strong>
-</p>
+| Metric | Value |
+|--------|-------|
+| 📺 Anime Titles | 50,000+ |
+| 📚 Comic Series | 100,000+ |
+| ⚡ Response Time | <100ms |
+| 🌍 Monthly Calls | 10M+ |
+| 🔄 Updates | Real-time |
+| 🌐 Languages | EN, ID, JP |
 
 ---
 
 ## 🎯 Overview
 
-**SankaVollerei** is a powerful, free REST API service that provides comprehensive access to anime and comic data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic-related applications.
-
-### ✨ Key Highlights
-
-- 📊 **50,000+** Anime titles in database
-- 📚 **100,000+** Manga & comic series
-- 🚀 **<100ms** Average response time
-- 🌍 **10M+** API calls served monthly
-- 🔄 **Real-time** updates for new releases
-- 🌐 **Multi-language** support (EN, ID, JP)
+**SankaVollerei** adalah layanan REST API gratis yang menyediakan akses lengkap ke data anime dan komik dari berbagai sumber terpercaya. Dengan cakupan dari tahun 1917 hingga sekarang, API kami menawarkan solusi yang kuat untuk membangun aplikasi terkait anime dan komik.
 
 ---
 
-## 🔗 Quick Start
+## 🔗 Base URL
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎬 Anime API</h3>
-      <a href="https://www.sankavollerei.com/anime">
-        <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
-      </a>
-      <br><br>
-      <code>GET https://www.sankavollerei.com/anime</code>
-    </td>
-    <td align="center" width="50%">
-      <h3>📖 Comic API</h3>
-      <a href="https://www.sankavollerei.com/comic">
-        <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
-      </a>
-      <br><br>
-      <code>GET https://www.sankavollerei.com/comic</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Features
-
-### 📺 Anime API Features
-
-<table>
-  <tr>
-    <td width="50%">
-      
-#### Core Features
-- ✅ **Complete Database** - 50,000+ anime titles
-- ✅ **Episode Tracking** - Real-time episode updates
-- ✅ **Streaming Links** - Multiple quality options
-- ✅ **Advanced Search** - Title, genre, year, status
-- ✅ **Seasonal Anime** - Current & upcoming seasons
-      
-</td>
-<td width="50%">
-
-#### Extended Features
-- ✅ **Character Database** - 100,000+ characters
-- ✅ **Voice Actors** - Complete seiyuu information
-- ✅ **Reviews & Ratings** - Community ratings
-- ✅ **Watch History** - Track user progress
-- ✅ **Recommendations** - AI-powered suggestions
-      
-</td>
-  </tr>
-</table>
-
-### 📚 Comic API Features
-
-<table>
-  <tr>
-    <td width="50%">
-      
-#### Core Features
-- ✅ **Vast Library** - Manga, manhwa, manhua
-- ✅ **Chapter Updates** - Real-time notifications
-- ✅ **Reading Links** - Multiple sources
-- ✅ **Genre Filtering** - 50+ genres
-- ✅ **Latest Releases** - Updated every hour
-      
-</td>
-<td width="50%">
-
-#### Extended Features
-- ✅ **Author Database** - Creator information
-- ✅ **Publisher Info** - Official publishers
-- ✅ **Reading Lists** - Custom collections
-- ✅ **Translation Status** - Multiple languages
-- ✅ **Download Support** - Offline reading
-      
-</td>
-  </tr>
-</table>
-
----
-
-## 💻 API Usage Examples
-
-### 🔧 Quick Integration
-
-<details>
-<summary><b>JavaScript / Node.js</b></summary>
-
-```javascript
-// Fetch anime information
-const getAnimeData = async () => {
-  const response = await fetch('https://www.sankavollerei.com/anime/search/boruto');
-  const data = await response.json();
-  return data;
-};
-
-// Fetch comic chapters
-const getComicChapters = async (comicId) => {
-  const response = await fetch(`https://www.sankavollerei.com/comic/chapter/${comicId}`);
-  const data = await response.json();
-  return data;
-};
+```
+https://www.sankavollerei.com
 ```
 
-</details>
+### Quick Access
 
-<details>
-<summary><b>Python</b></summary>
-
-```python
-import requests
-
-# Search for anime
-def search_anime(query):
-    response = requests.get(f'https://www.sankavollerei.com/anime/search/{query}')
-    return response.json()
-
-# Get comic details
-def get_comic_details(comic_id):
-    response = requests.get(f'https://www.sankavollerei.com/comic/chapter/{comic_id}')
-    return response.json()
+**🎬 Anime API**
+```
+GET https://www.sankavollerei.com/anime
 ```
 
-</details>
-
-<details>
-<summary><b>PHP</b></summary>
-
-```php
-// Fetch anime by genre
-function getAnimeByGenre($genre) {
-    $url = "https://www.sankavollerei.com/anime/genre/" . $genre;
-    $response = file_get_contents($url);
-    return json_decode($response, true);
-}
-
-// Get latest manga updates
-function getLatestManga() {
-    $url = "https://www.sankavollerei.com/comic/latest";
-    $response = file_get_contents($url);
-    return json_decode($response, true);
-}
+**📖 Comic API**
 ```
-
-</details>
+GET https://www.sankavollerei.com/comic
+```
 
 ---
 
-## 📊 API Endpoints
+## 📺 Anime API Sources
+
+Kami mengintegrasikan data dari berbagai sumber anime terpercaya:
+
+### 🎯 Available Sources
+
+| Source | Status | Description |
+|--------|--------|-------------|
+| **Otakudesu** | ✅ Active | Sub Indo, High Quality |
+| **Donghua** | ✅ Active | Chinese Anime Specialist |
+| **Samehadaku** | ✅ Active | Fast Updates, HD Quality |
+| **Anoboy** | ✅ Active | Complete Archive |
+| **Anime Indo** | ✅ Active | Local Community Favorite |
+| **Nekopoi** | ✅ Active | Specialized Content |
+
+### Features by Source
+
+**Otakudesu**
+- ✓ Ongoing & Complete Anime
+- ✓ Batch Download Links
+- ✓ Multiple Quality Options
+- ✓ Fast Daily Updates
+
+**Donghua**
+- ✓ Chinese Animation Focus
+- ✓ Subtitle Indonesia
+- ✓ Latest Releases
+- ✓ Popular Titles
+
+**Samehadaku**
+- ✓ HD Quality Streams
+- ✓ Episode Tracking
+- ✓ Genre Filtering
+- ✓ Seasonal Anime
+
+**Anoboy**
+- ✓ Extensive Archive
+- ✓ Classic to Modern
+- ✓ Multi-Resolution
+- ✓ Quick Access
+
+**Anime Indo**
+- ✓ Local Community
+- ✓ Indonesian Sub
+- ✓ Weekly Updates
+- ✓ Popular Series
+
+**Nekopoi**
+- ✓ Specialized Category
+- ✓ Exclusive Content
+- ✓ Regular Updates
+- ✓ Premium Quality
+
+---
+
+## 📚 Comic API Sources
+
+Kami menyediakan akses ke berbagai platform baca komik populer:
+
+### 📖 Available Sources
+
+| Source | Status | Type |
+|--------|--------|------|
+| **Komiku** | ✅ Active | Manga, Manhwa, Manhua |
+| **BacaKomik** | ✅ Active | Indonesian Comics |
+| **Komikstation** | ✅ Active | Multi-Genre |
+| **Maid Comic** | ✅ Active | Quality Translations |
+| **Komikindo** | ✅ Active | Popular Titles |
+| **Mangakita** | ✅ Active | Latest Updates |
+| **SoulScans** | ✅ Active | Scanlation Group |
+| **Meganei** | ✅ Active | Specialized Content |
+| **Mangasusuku** | ✅ Active | Community Favorite |
+
+### Features by Source
+
+**Komiku**
+- ✓ 10,000+ Titles
+- ✓ Daily Updates
+- ✓ Multiple Languages
+- ✓ HD Images
+
+**BacaKomik**
+- ✓ Indonesian Focus
+- ✓ Fast Updates
+- ✓ Genre Variety
+- ✓ Mobile Optimized
+
+**Komikstation**
+- ✓ Premium Quality
+- ✓ Latest Chapters
+- ✓ Popular Series
+- ✓ Clean Reader
+
+**Maid Comic**
+- ✓ Quality TL
+- ✓ Regular Updates
+- ✓ Reader-Friendly
+- ✓ Comment System
+
+**Komikindo**
+- ✓ Large Library
+- ✓ Trending Comics
+- ✓ Search Function
+- ✓ Bookmark Support
+
+**Mangakita**
+- ✓ Real-time Updates
+- ✓ Genre Filter
+- ✓ Reading History
+- ✓ Responsive UI
+
+**SoulScans**
+- ✓ Quality Scans
+- ✓ Fast Releases
+- ✓ Community Driven
+- ✓ HD Quality
+
+**Meganei**
+- ✓ Unique Selection
+- ✓ Regular Schedule
+- ✓ Clean Interface
+- ✓ Multiple Genres
+
+**Mangasusuku**
+- ✓ Popular Picks
+- ✓ Daily Updates
+- ✓ User-Friendly
+- ✓ Fast Loading
+
+---
+
+## 📱 API Endpoints
 
 ### 🎬 Anime Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/anime` | - | Get Dokumentasi Anime |
-| `/anime/home` | GET | Get home anime list |
-| `/anime/schedule` | GET | Get airing schedule |
-| `/anime/anime/{id}` | GET | Get anime details |
-| `/anime/complete-anime/{page}` | GET | Get complete anime |
-| `/anime/ongoing-anime?page={page}` | GET | Get ongoing anime |
-| `/anime/genre` | GET | Get all genre list |
+| `/anime` | GET | Documentation |
+| `/anime/home` | GET | Home anime list |
+| `/anime/schedule` | GET | Airing schedule |
+| `/anime/anime/{id}` | GET | Anime details |
+| `/anime/complete-anime/{page}` | GET | Complete anime |
+| `/anime/ongoing-anime?page={page}` | GET | Ongoing anime |
+| `/anime/genre` | GET | All genres |
 | `/anime/genre/{genre}` | GET | Filter by genre |
-| `/anime/episode/{id}` | GET | Get episode list |
-| `/anime/search` | GET | Search anime by query |
-| `/anime/batch/{id}` | GET | Get batch anime |
-| `/anime/unlimited` | GET | Get all anime list |
+| `/anime/episode/{id}` | GET | Episode list |
+| `/anime/search` | GET | Search anime |
+| `/anime/batch/{id}` | GET | Batch download |
+| `/anime/unlimited` | GET | All anime list |
 
 ### 📚 Comic Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/comic` | - | Get Dokumentasi Comic |
-| `/comic/unlimited` | GET | Get all comics list |
-| `/comic/homepage` | GET | Get homepage comics |
-| `/comic/search` | GET | Search comics by query |
-| `/comic/comic/{id}` | GET | Get comic details |
-| `/comic/comic/chapter/{id}` | GET | Get chapter list |
-| `/comic/type/{type}` | GET | Filter by type comics |
+| `/comic` | GET | Documentation |
+| `/comic/unlimited` | GET | All comics |
+| `/comic/homepage` | GET | Homepage |
+| `/comic/search` | GET | Search comics |
+| `/comic/comic/{id}` | GET | Comic details |
+| `/comic/comic/chapter/{id}` | GET | Chapter list |
+| `/comic/type/{type}` | GET | Filter by type |
 | `/comic/genre/{genre}` | GET | Filter by genre |
-| `/comic/terbaru` | GET | Get latest updates |
-| `/comic/populer` | GET | Get popular comics |
-| `/comic/trending` | GET | Get trending comics |
-| `/comic/random` | GET | Get random comics |
-| `/comic/recommendations` | GET | Get recommendations comics |
-| `/comic/berwarna/{page}` | GET | Get colored comics |
+| `/comic/terbaru` | GET | Latest updates |
+| `/comic/populer` | GET | Popular comics |
+| `/comic/trending` | GET | Trending |
+| `/comic/random` | GET | Random comic |
+| `/comic/recommendations` | GET | Recommendations |
+| `/comic/berwarna/{page}` | GET | Colored comics |
 
 ---
 
-## 🎨 Popular Categories
+## 💻 Code Examples
 
-### 🎬 Anime Genres
+### JavaScript
+```javascript
+// Search anime
+const searchAnime = async (query) => {
+  const res = await fetch(
+    `https://www.sankavollerei.com/anime/search/${query}`
+  );
+  return await res.json();
+};
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Action-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Adventure-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Comedy-FFD93D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Drama-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fantasy-FF6BAD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Horror-2D3436?style=flat-square" />
-  <img src="https://img.shields.io/badge/Isekai-00B894?style=flat-square" />
-  <img src="https://img.shields.io/badge/Magic-A29BFE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mecha-636E72?style=flat-square" />
-  <img src="https://img.shields.io/badge/Military-2D3436?style=flat-square" />
-  <img src="https://img.shields.io/badge/Music-FD79A8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mystery-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Psychological-74B9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Romance-FF6B9D?style=flat-square" />
-  <img src="https://img.shields.io/badge/School-55A3FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sci--Fi-00CEC9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shounen-FF7675?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shoujo-FDCB6E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slice_of_Life-81ECEC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sports-00B894?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supernatural-A29BFE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Thriller-2D3436?style=flat-square" />
-</p>
+// Get comic chapters
+const getChapters = async (id) => {
+  const res = await fetch(
+    `https://www.sankavollerei.com/comic/chapter/${id}`
+  );
+  return await res.json();
+};
+```
 
----
+### Python
+```python
+import requests
 
-## ⚡ Performance & Reliability
+# Get ongoing anime
+def get_ongoing(page=1):
+    url = f"https://www.sankavollerei.com/anime/ongoing-anime?page={page}"
+    return requests.get(url).json()
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>🚀 Speed</h3>
-      <strong>&lt;100ms</strong><br>
-      Average Response Time
-    </td>
-    <td align="center">
-      <h3>📊 Scale</h3>
-      <strong>10M+</strong><br>
-      Monthly API Calls
-    </td>
-    <td align="center">
-      <h3>🛡️ Uptime</h3>
-      <strong>99.9%</strong><br>
-      Service Availability
-    </td>
-    <td align="center">
-      <h3>🔄 Updates</h3>
-      <strong>Real-time</strong><br>
-      Content Refresh
-    </td>
-  </tr>
-</table>
+# Search comics
+def search_comic(query):
+    url = f"https://www.sankavollerei.com/comic/search?q={query}"
+    return requests.get(url).json()
+```
+
+### PHP
+```php
+// Get anime by genre
+function getByGenre($genre) {
+    $url = "https://www.sankavollerei.com/anime/genre/{$genre}";
+    return json_decode(file_get_contents($url), true);
+}
+
+// Get trending comics
+function getTrending() {
+    $url = "https://www.sankavollerei.com/comic/trending";
+    return json_decode(file_get_contents($url), true);
+}
+```
 
 ---
 
-## 🛠️ Built For Developers
+## 🎨 Popular Genres
 
-### 🎯 Use Cases
+### Anime Genres
+`Action` `Adventure` `Comedy` `Drama` `Fantasy` `Horror` `Isekai` `Magic` `Mecha` `Military` `Music` `Mystery` `Psychological` `Romance` `School` `Sci-Fi` `Shounen` `Shoujo` `Slice of Life` `Sports` `Supernatural` `Thriller`
 
-<table>
-  <tr>
-    <td width="33%">
-      
-#### 📱 Mobile Apps
-Build iOS & Android apps with our comprehensive API
-      
-</td>
-<td width="33%">
+### Comic Types
+`Manga` `Manhwa` `Manhua` `Webtoon` `One-Shot` `Doujinshi`
 
-#### 🌐 Web Applications
-Create responsive web apps with real-time data
-      
-</td>
-<td width="33%">
+---
 
-#### 🤖 Discord Bots
-Power your Discord server with anime/comic features
-      
-</td>
-  </tr>
-  <tr>
-    <td width="33%">
-      
-#### 📊 Data Analysis
-Research and analyze anime/comic trends
-      
-</td>
-<td width="33%">
+## ⚡ Performance
 
-#### 🎮 Game Development
-Integrate anime/comic data into your games
-      
-</td>
-<td width="33%">
+| Metric | Value |
+|--------|-------|
+| 🚀 Speed | <100ms avg |
+| 📊 Scale | 10M+ calls/month |
+| 🛡️ Uptime | 99.9% |
+| 🔄 Updates | Real-time |
 
-#### 🔔 Tracking Apps
-Build watchlist and reading list applications
-      
-</td>
-  </tr>
-</table>
+---
+
+## 🛠️ Use Cases
+
+### Mobile Apps
+Build iOS & Android apps with our API
+
+### Web Apps
+Create responsive web applications
+
+### Discord Bots
+Power your Discord server features
+
+### Data Analysis
+Research anime/comic trends
+
+### Tracking Apps
+Build watchlist applications
 
 ---
 
 ## 📖 Documentation
 
-<div align="center">
-  
-### 🚧 Complete Documentation Coming Soon!
+### Coming Soon!
+- 📝 Detailed specs
+- 🔐 Auth guides
+- 💡 Best practices
+- 🛠️ SDK libraries
+- 📚 Tutorials
 
-**What to expect:**
-- 📝 Detailed endpoint specifications
-- 🔐 Authentication & rate limiting guides
-- 💡 Best practices & optimization tips
-- 🛠️ SDK libraries for multiple languages
-- 📚 Code examples & tutorials
-- 🎯 Use case implementations
-
-**Current Resources:**
-- 📧 Email: support@sankavollerei.com
-- 💬 Discord: Join our developer community
-- 📱 WhatsApp: Quick support channel
-
-</div>
+### Contact Support
+- 📧 support@sankavollerei.com
+- 💬 Discord Community
+- 📱 WhatsApp Support
 
 ---
 
 ## 🌍 Language Support
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🇬🇧 English</h3>
-      Full support for all features
-    </td>
-    <td align="center" width="33%">
-      <h3>🇮🇩 Bahasa Indonesia</h3>
-      Dukungan lengkap untuk semua fitur
-    </td>
-    <td align="center" width="33%">
-      <h3>🇯🇵 日本語</h3>
-      Coming soon / 近日公開
-    </td>
-  </tr>
-</table>
+| Language | Status |
+|----------|--------|
+| 🇬🇧 English | ✅ Full Support |
+| 🇮🇩 Indonesian | ✅ Full Support |
+| 🇯🇵 Japanese | 🔜 Coming Soon |
 
 ---
 
 ## 📱 Connect With Us
 
-<div align="center">
-  <h3>🔔 Stay Updated with Latest API News & Features!</h3>
-  
-  <p>
-    <a href="https://whatsapp.com/channel/0029VbBv5edGk1Fo8WbsAK1V">
-      <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/sankanime34">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://www.tiktok.com/@sandikaaa78">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://discord.com/users/sandikaaa.">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/sandikaaa_78">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
-    <a href="https://t.me/OnlySankaaa">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-  </p>
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBv5edGk1Fo8WbsAK1V)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sankanime34)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@sandikaaa78)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/sandikaaa.)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sandikaaa_78)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/OnlySankaaa)
 
 ---
 
 ## 💝 Support This Project
 
-<div align="center">
-  
-### ⭐ Star This Repository
-If you find SankaVollerei API useful, please give it a star!
+### ⭐ Star This Repo
+Help us grow by starring!
 
 ### 🚀 Contribute
-We welcome contributions! Feel free to submit pull requests or report issues.
+Submit PRs or report issues
 
-### ☕ Donate me
-Support the development and server costs:
+### ☕ Donate
+Support development & server costs
 
-<a href="https://sociabuzz.com/sankanime/tribe">
-  <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-</a>
-
-</div>
+[![Donate](https://img.shields.io/badge/Donate-Support-FF6B6B?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://sociabuzz.com/sankanime/tribe)
 
 ---
 
 ## ⚠️ Terms of Service
 
 ### Fair Use Policy
-
-- ✅ **Free for personal and commercial use**
-- ✅ **No API key required for basic access**
-- ⚠️ **Rate limit: 1000 requests/hour per IP**
-- ⚠️ **Please cache responses when possible**
-- ❌ **Do not abuse or overload the service**
+- ✅ Free for personal & commercial use
+- ✅ No API key required
+- ⚠️ Rate limit: 1000 req/hour per IP
+- ⚠️ Please cache responses
+- ❌ No abuse or overload
 
 ### Copyright Notice
-
-All anime and comic content metadata is sourced from publicly available information. We respect intellectual property rights and will promptly address any copyright concerns.
+All content metadata is from publicly available sources. We respect intellectual property rights.
 
 ---
 
 ## 📜 License
 
-<div align="center">
-  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-</div>
-
+This project is licensed under the MIT License.
 
 ---
 
-<div align="center">
-  <h2>🚀 Start Building Amazing Projects Today!</h2>
-  
-  <a href="https://www.sankavollerei.com">
-    <img src="https://img.shields.io/badge/🌐_GET_STARTED-SANKAVOLLEREI.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Developers;For+Developers+Worldwide!+%F0%9F%8C%8D;Thank+you+for+visiting!+%F0%9F%99%8F" alt="Typing SVG" />
-  
-</div>
+## 🚀 Get Started Now!
+
+[![Visit Website](https://img.shields.io/badge/🌐_GET_STARTED-SANKAVOLLEREI.COM-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sankavollerei.com)
 
 ---
 
-<footer align="center">
-  <p><strong>© 2024-2025 SankaVollerei</strong> • All Rights Reserved</p>
-  <p>Crafted with passion by <a href="https://github.com/SankaVollereii">@SankaVollereii</a></p>
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SankaVollereii&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-  ![API Status](https://img.shields.io/badge/API_Status-Online-brightgreen?style=for-the-badge)
-  ![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
-  
-</footer>
+**Made with ❤️ by Developers, For Developers Worldwide! 🌍**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer"/>
+© 2024-2025 SankaVollerei • All Rights Reserved
+
+Crafted by [@SankaVollereii](https://github.com/SankaVollereii)
+
+![API Status](https://img.shields.io/badge/API_Status-Online-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=flat-squar
