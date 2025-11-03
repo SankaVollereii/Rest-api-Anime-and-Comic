@@ -417,10 +417,10 @@ If you find SankaVollerei API useful, please give it a star!
 ### 🚀 Contribute
 We welcome contributions! Feel free to submit pull requests or report issues.
 
-### ☕ Buy Me a Coffee
+### ☕ Donate me
 Support the development and server costs:
 
-<a href="https://sankavollerei.com/donate">
+<a href="https://sociabuzz.com/sankanime/tribe">
   <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </a>
 
@@ -454,17 +454,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 </div>
 
----
-
-## 🏆 Statistics & Achievements
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankaVollereii&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankaVollereii&layout=compact&theme=radical)
-
-</div>
 
 ---
 
