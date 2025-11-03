@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://sankavollerei.com">
+  <a href="https://www.sankavollerei.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Your+Gateway+to+Anime+%26+Comic+Data" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sankavollerei.com"><img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://www.sankavollerei.com"><img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/100%25-FREE-00D9FF?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Open-Source-4ECDC4?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge" /></a>
@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
       </a>
       <br><br>
-      <code>GET https://sankavollerei.com/anime</code>
+      <code>GET https://www.sankavollerei.com/anime</code>
     </td>
     <td align="center" width="50%">
       <h3>📖 Comic API</h3>
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
       </a>
       <br><br>
-      <code>GET https://sankavollerei.com/comic</code>
+      <code>GET https://www.sankavollerei.com/comic</code>
     </td>
   </tr>
 </table>
@@ -135,14 +135,14 @@
 ```javascript
 // Fetch anime information
 const getAnimeData = async () => {
-  const response = await fetch('https://sankavollerei.com/anime/search?q=naruto');
+  const response = await fetch('https://www.sankavollerei.com/anime/search?q=naruto');
   const data = await response.json();
   return data;
 };
 
 // Fetch comic chapters
 const getComicChapters = async (comicId) => {
-  const response = await fetch(`https://sankavollerei.com/comic/${comicId}/chapters`);
+  const response = await fetch(`https://www.sankavollerei.com/comic/${comicId}/chapters`);
   const data = await response.json();
   return data;
 };
@@ -158,12 +158,12 @@ import requests
 
 # Search for anime
 def search_anime(query):
-    response = requests.get(f'https://sankavollerei.com/anime/search?q={query}')
+    response = requests.get(f'https://www.sankavollerei.com/anime/search?q={query}')
     return response.json()
 
 # Get comic details
 def get_comic_details(comic_id):
-    response = requests.get(f'https://sankavollerei.com/comic/{comic_id}')
+    response = requests.get(f'https://www.sankavollerei.com/comic/{comic_id}')
     return response.json()
 ```
 
@@ -175,14 +175,14 @@ def get_comic_details(comic_id):
 ```php
 // Fetch anime by genre
 function getAnimeByGenre($genre) {
-    $url = "https://sankavollerei.com/anime/genre/" . $genre;
+    $url = "https://www.sankavollerei.com/anime/genre/" . $genre;
     $response = file_get_contents($url);
     return json_decode($response, true);
 }
 
 // Get latest manga updates
 function getLatestManga() {
-    $url = "https://sankavollerei.com/comic/latest";
+    $url = "https://www.sankavollerei.com/comic/latest";
     $response = file_get_contents($url);
     return json_decode($response, true);
 }
@@ -460,7 +460,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <h2>🚀 Start Building Amazing Projects Today!</h2>
   
-  <a href="https://sankavollerei.com">
+  <a href="https://www.sankavollerei.com">
     <img src="https://img.shields.io/badge/🌐_GET_STARTED-SANKAVOLLEREI.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
