@@ -135,14 +135,14 @@
 ```javascript
 // Fetch anime information
 const getAnimeData = async () => {
-  const response = await fetch('https://www.sankavollerei.com/anime/search?q=naruto');
+  const response = await fetch('https://www.sankavollerei.com/anime/search/boruto');
   const data = await response.json();
   return data;
 };
 
 // Fetch comic chapters
 const getComicChapters = async (comicId) => {
-  const response = await fetch(`https://www.sankavollerei.com/comic/${comicId}/chapters`);
+  const response = await fetch(`https://www.sankavollerei.com/comic/chapter/${comicId}`);
   const data = await response.json();
   return data;
 };
@@ -158,12 +158,12 @@ import requests
 
 # Search for anime
 def search_anime(query):
-    response = requests.get(f'https://www.sankavollerei.com/anime/search?q={query}')
+    response = requests.get(f'https://www.sankavollerei.com/anime/search/{query}')
     return response.json()
 
 # Get comic details
 def get_comic_details(comic_id):
-    response = requests.get(f'https://www.sankavollerei.com/comic/{comic_id}')
+    response = requests.get(f'https://www.sankavollerei.com/comic/chapter/{comic_id}')
     return response.json()
 ```
 
@@ -198,27 +198,37 @@ function getLatestManga() {
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/anime` | GET | Get all anime list |
-| `/anime/search` | GET | Search anime by query |
-| `/anime/{id}` | GET | Get anime details |
-| `/anime/{id}/episodes` | GET | Get episode list |
-| `/anime/genre/{genre}` | GET | Filter by genre |
-| `/anime/season/{year}/{season}` | GET | Get seasonal anime |
+| `/anime` | - | Get Dokumentasi Anime |
+| `/anime/home` | GET | Get home anime list |
 | `/anime/schedule` | GET | Get airing schedule |
-| `/anime/trending` | GET | Get trending anime |
+| `/anime/anime/{id}` | GET | Get anime details |
+| `/anime/complete-anime/{page}` | GET | Get complete anime |
+| `/anime/ongoing-anime?page={page}` | GET | Get ongoing anime |
+| `/anime/genre` | GET | Get all genre list |
+| `/anime/genre/{genre}` | GET | Filter by genre |
+| `/anime/episode/{id}` | GET | Get episode list |
+| `/anime/search` | GET | Search anime by query |
+| `/anime/batch/{id}` | GET | Get batch anime |
+| `/anime/unlimited` | GET | Get all anime list |
 
 ### 📚 Comic Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/comic` | GET | Get all comics list |
+| `/comic` | - | Get Dokumentasi Comic |
+| `/comic/unlimited` | GET | Get all comics list |
+| `/comic/homepage` | GET | Get homepage comics |
 | `/comic/search` | GET | Search comics by query |
-| `/comic/{id}` | GET | Get comic details |
-| `/comic/{id}/chapters` | GET | Get chapter list |
+| `/comic/comic/{id}` | GET | Get comic details |
+| `/comic/comic/chapter/{id}` | GET | Get chapter list |
+| `/comic/type/{type}` | GET | Filter by type comics |
 | `/comic/genre/{genre}` | GET | Filter by genre |
-| `/comic/latest` | GET | Get latest updates |
-| `/comic/popular` | GET | Get popular comics |
-| `/comic/completed` | GET | Get completed series |
+| `/comic/terbaru` | GET | Get latest updates |
+| `/comic/populer` | GET | Get popular comics |
+| `/comic/trending` | GET | Get trending comics |
+| `/comic/random` | GET | Get random comics |
+| `/comic/recommendations` | GET | Get recommendations comics |
+| `/comic/berwarna/{page}` | GET | Get colored comics |
 
 ---
 
