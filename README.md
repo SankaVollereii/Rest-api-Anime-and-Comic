@@ -346,16 +346,26 @@ Build watchlist and reading list applications
 
 ---
 
-## 🌍 Language Support
+<div align="center">
+  <h2>⬇️ Downloader Anime</h2>
+</div>
 
-### 🇬🇧 English
-Full support for all features
+<p align="center">
+  <a href="https://www.sankavollerei.com/download/anime">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Explore+More+Projects;Anime+Tools+%26+API;Visit+SankaVollerei.com" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🇮🇩 Bahasa Indonesia
-Dukungan lengkap untuk semua fitur
+<p align="center">
+  <a href="https://www.sankavollerei.com/download/anime">
+    <img src="https://img.shields.io/badge/🌟_Visit-Downloader-Anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-### 🇯🇵 日本語
-Coming soon / 近日公開
+<p align="center">
+  <strong>Download your favorite anime instantly!</strong><br/>
+  <strong>Download anime favoritemu secara instan!</strong>
+</p>
 
 ---
 
