@@ -242,43 +242,54 @@ function getLatestManga() {
 ### 🎬 Anime Genres
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Action-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Adventure-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Comedy-FFD93D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Drama-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Action-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adventure-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Comedy-FFD93D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Drama-6C63FF?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fantasy-FF6BAD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Horror-2D3436?style=flat-square" />
-  <img src="https://img.shields.io/badge/Isekai-00B894?style=flat-square" />
-  <img src="https://img.shields.io/badge/Magic-A29BFE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fantasy-FF6BAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Horror-2D3436?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Isekai-00B894?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Magic-A29BFE?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mecha-636E72?style=flat-square" />
-  <img src="https://img.shields.io/badge/Military-2D3436?style=flat-square" />
-  <img src="https://img.shields.io/badge/Music-FD79A8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mystery-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mecha-636E72?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Military-2D3436?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Music-FD79A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mystery-6C5CE7?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Psychological-74B9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Romance-FF6B9D?style=flat-square" />
-  <img src="https://img.shields.io/badge/School-55A3FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sci--Fi-00CEC9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Psychological-74B9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Romance-FF6B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/School-55A3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sci--Fi-00CEC9?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shounen-FF7675?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shoujo-FDCB6E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slice_of_Life-81ECEC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sports-00B894?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shounen-FF7675?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shoujo-FDCB6E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Slice_of_Life-81ECEC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sports-00B894?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Supernatural-A29BFE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Thriller-2D3436?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supernatural-A29BFE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thriller-2D3436?style=for-the-badge" />
+</p>
+
+---
+
+### 📥 Download Quality Options
+
+<p align="center">
+  <img src="https://img.shields.io/badge/360p-Mobile-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/480p-SD-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/720p-HD-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/1080p-Full_HD-red?style=for-the-badge" />
 </p>
 
 ---
