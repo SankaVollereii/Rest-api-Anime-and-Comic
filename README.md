@@ -362,8 +362,9 @@ Coming soon / 近日公開
 ## 📱 Connect With Us
 
 <div align="center">
-  <h3>🔔 Follow us for updates and anime recommendations!</h3>
-  <h3>🔔 Follow kami untuk update dan rekomendasi anime!</h3>
+  
+### 🔔 Stay Updated with Latest API News & Features!
+
 </div>
 
 <p align="center">
