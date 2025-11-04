@@ -118,6 +118,7 @@ GET https://www.sankavollerei.com/comic
 - **Anoboy** - Anime streaming service
 - **Kusonime** - Anime Downloader batch
 - **Anime Indo** - Indonesian anime streaming
+- **Oploverz** - Anime streaming service
 - **Nekopoi** - Adult anime content
 
 ### 📚 Comic Sources
