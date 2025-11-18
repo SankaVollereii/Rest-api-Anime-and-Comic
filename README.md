@@ -542,14 +542,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <footer align="center">
   <p><strong>© 2024-2025 SankaVollerei</strong> • All Rights Reserved</p>
+  <p>
+    Plana AI Auto Update
+    <a href="https://github.com/SankaVollereii/Rest-Api-Anime-and-Comic/actions/workflows/ApiSanka.yml">
+      <img src="https://github.com/SankaVollereii/Rest-Api-Anime-and-Comic/actions/workflows/ApiSanka.yml/badge.svg" alt="Plana AI Status" style="vertical-align: middle;">
+    </a>
+  </p>
   <p>Crafted with passion by <a href="https://github.com/SankaVollereii">@SankaVollereii</a></p>
-  
   <br>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=SankaVollereii&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-![API Status](https://img.shields.io/badge/API_Status-Online-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
-  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SankaVollereii&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views">
+    <img src="https://img.shields.io/badge/API_Status-Online-brightgreen?style=for-the-badge" alt="API Status">
+    <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge" alt="Version">
+  </p>
 </footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer"/>
