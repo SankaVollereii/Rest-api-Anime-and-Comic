@@ -2,7 +2,7 @@ name: Plana AI Auto Update
 on:
   schedule:
   #  - cron: '0 */1 * * *' # 1 jam
-    - cron: '*/15 * * * *' # 15 menit
+  - cron: '*/15 * * * *' # 15 menit
   workflow_dispatch:
 
 jobs:
