@@ -12,13 +12,23 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Update file timestamp
+      - name: Check Website Status
         run: |
-          echo "Last auto update: $(date)" > Api_sanka_auto_update.txt
+          export TZ='Asia/Jakarta'
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+          STATUS=$(curl -o /dev/null -s -w "%{http_code}" https://www.sankavollerei.com)
+          
+          if [ "$STATUS" == "200" ]; then
+            MSG="ONLINE (200 OK)"
+          else
+            MSG="DOWN/ERROR ($STATUS)"
+          fi
+          echo "[$TIMESTAMP] SankaVollerei Status: $MSG" > .github/Api_sanka_auto_update.txt
+        
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Plana AI Auto Update'
-          file_pattern: 'Api_sanka_auto_update.txt'
+          commit_message: 'Plana AI: Website Status Check [skip ci]'
+          file_pattern: '.github/Api_sanka_auto_update.txt'
           commit_user_name: 'Plana AI'
           commit_user_email: 'plana@sankanime.com'
