@@ -544,7 +544,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p><strong>© 2024-2025 SankaVollerei</strong> • All Rights Reserved</p>
   <p>
     Plana AI Auto Update
-    <a href="https://github.com/SankaVollereii/Rest-Api-Anime-and-Comic/actions/workflows/ApiSanka.yml">
+    <a href="https://github.com/SankaVollereii/Rest-Api-Anime-and-Comic/actions/workflows/%20ApiSanka.yml">
       <img src="https://github.com/SankaVollereii/Rest-Api-Anime-and-Comic/actions/workflows/ApiSanka.yml/badge.svg" alt="Plana AI Status" style="vertical-align: middle;">
     </a>
   </p>
